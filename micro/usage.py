@@ -48,10 +48,14 @@ def handle_upload():
 
 
 app.layout = html.Div([
-    micro.Micro(
-        id='audioInput',
-    ),
-    html.Div(id='output'),
+    html.Div([
+        micro.Micro(
+            id='audioInput'
+        ),
+        html.Div(id='output'),
+    ],
+        style={"width": "20rem"}
+    )
 ])
 
 

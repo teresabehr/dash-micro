@@ -1,0 +1,12 @@
+include micro/micro.min.js
+include micro/micro.min.js.map
+include micro/async-*.js
+include micro/async-*.js.map
+include micro/*-shared.js
+include micro/*-shared.js.map
+include micro/metadata.json
+include micro/package-info.json
+include micro/css/micro.css
+include README.md
+include LICENSE
+include package.json

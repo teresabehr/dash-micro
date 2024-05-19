@@ -1,0 +1,30 @@
+{
+  "src/lib/components/Micro.react.js": {
+    "description": "",
+    "displayName": "Micro",
+    "methods": [],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "The ID used to identify this component in Dash callbacks."
+      },
+      "fileUrl": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "The URL for the temp audio file if you saved it to the server."
+      },
+      "setProps": {
+        "type": {
+          "name": "func"
+        },
+        "required": false,
+        "description": "Dash-assigned callback that should be called to report property changes\r\nto Dash, to make them available for callbacks."
+      }
+    }
+  }
+}

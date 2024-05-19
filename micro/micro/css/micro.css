@@ -1,0 +1,11 @@
+.dash-micro .button {
+  z-index: 1000;
+  color:blueviolet;
+  background-color: aquamarine;
+}
+
+.micro {
+  z-index: 1000;
+  color:blue;
+  background-color: yellow;
+}

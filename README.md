@@ -16,7 +16,7 @@ A couple of important things to know about this component:
 
 Because this is still a work-in-progress, it is not yet available on pypi, but you are welcome to try it out at your own risk :-) Feedback is much appreciated.
 
-The repo includes the packaged tarball for the most recent stable version. Download that file and install it in the environment where you're working on your project:
+The repo includes the packaged tarball for the most recent stable version in the dir ```dash-micro/micro/micro```. Download that file and install it in the environment where you're working on your project:
 
 *to install locally:*
 
